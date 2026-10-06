@@ -1,0 +1,8 @@
+.env
+
+data/
+tmp/
+.ignore_files/
+
+.DS_Store
+Thumbs.db
